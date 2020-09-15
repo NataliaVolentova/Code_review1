@@ -1,0 +1,120 @@
+body{
+	width: 85%;
+	margin: auto;
+	max-width: 1200px;
+}
+.top1{
+	display: block;
+	background-color: #CABBB7;
+	height: 150px;
+}
+
+#text1{
+	display: inline-block;
+	margin-top: 10%;
+	margin-left: 7%;
+	font-size: 18px;
+
+}
+
+#pic1{
+	float: right;
+	width: 300px;
+	height: 120px;
+	margin: 20px;
+
+}
+
+nav{
+	display: block;
+	background-color: #C65252;
+	text-align: right;
+	height: 50px;
+}
+
+ul{
+	margin-top:0; 
+}
+
+a{
+	color: white;
+	text-decoration: none;
+	font-weight: bold;
+	font-size: 24px;
+	padding-top: 2%;
+	padding-right: 3%;
+}
+
+#my_first_website{
+	font-weight: bold;
+	text-align: center;
+	width: 100%;
+	height: 200px;
+	font-size: 50px;
+	padding-top: 80px;
+}
+
+
+p{
+	font-weight: bold;
+	font-size: 15px;
+	margin: 5px;
+	text-align: center;
+
+}
+
+
+#pic2{
+	display: block;
+	height: 230px;
+	margin:20px;
+	align-content: center;
+	width: 85%;
+
+}
+
+#pic3{
+	display: block;
+	height: 230px;
+	margin-left:20px;
+	margin-right: 10px;
+	align-content: center;
+
+}
+
+#pic4{
+	display: block;
+	width: 100%;
+	height: 230px;
+	margin-right: 20px;
+	align-content: center;
+
+}
+
+#article1{
+	display: block;
+	width: 100%;
+	margin:20px;
+	align-content: center;
+
+}
+#article2{
+	display: block;
+	width: 50%;
+	height: 230px;
+	float: left;
+	margin: 20px;
+
+}
+
+#article3{
+	display: block;
+	width: 30%;
+	height: 230px;
+	float: right;
+	margin: 20px 75px 20px 10px;
+
+}
+
+
+
